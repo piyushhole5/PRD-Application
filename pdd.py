@@ -142,4 +142,4 @@ def build_exceptions():
     doc = Document()
     doc.add_heading("Exception Handling Matrix", 0)
     doc.add_heading("Business Exceptions", 1)
-    t = doc.
+    t = doc
